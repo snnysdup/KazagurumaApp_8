@@ -1,0 +1,8 @@
+streamlit
+plotly
+openai
+python-dotenv
+requests
+google-auth
+google-auth-outhlib
+google-auth-httplib2
